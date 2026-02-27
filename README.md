@@ -1,4 +1,4 @@
-# MailShottie 📧
+# MailKroq 📧
 
 A powerful email load testing tool built with Next.js.
 
